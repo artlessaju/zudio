@@ -1,0 +1,31 @@
+*{
+
+
+    font-family: 'Dosis', sans-serif;
+
+}
+
+.navbar{
+
+    background-color: black;
+}
+
+.col1{
+
+    display: flex;
+}
+
+.col1 img{
+
+margin: 50px;
+
+}
+
+.col img{
+
+    width: 430px;
+    height: 300px;
+    margin: 20px;
+
+
+}
